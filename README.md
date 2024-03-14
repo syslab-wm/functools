@@ -1,1 +1,1 @@
-Go module that implements functions typical of functional programming. 
+Go module that implements concepts typical of functional programming. 
